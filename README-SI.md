@@ -2,14 +2,14 @@
   [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
-![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
+![logo](https://telegra.ph/file/9f8da951922aa3449cef2.jpg)
 <h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
 
 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Wall_e+wall&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 </a>
 Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
@@ -82,7 +82,7 @@ You will only generate a QR code with the first device.
 From the first device you need to install Neotro-x  Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/AMAZON-BETA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sl-cricket/AMAZON-BETA)
 
 
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
